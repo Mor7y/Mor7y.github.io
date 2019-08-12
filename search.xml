@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F08%2F10%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[test2]]></title>
-    <url>%2F2018%2F08%2F30%2Ftest%2F</url>
-    <content type="text"><![CDATA[这是一个测试博客]]></content>
+    <title><![CDATA[关于这个博客]]></title>
+    <url>%2F2019%2F08%2F12%2Fabout_this_blog%2F</url>
+    <content type="text"><![CDATA[不知不觉已经工作一年多了，其实有时候会想写点东西记录一下工作上遇到的小问题,，自己日常的一些小想法。虽然有时候一是兴起会去做，但是总归是坚持不下来。所以，搭这个博客，记录一下日常，希望这次能够坚持下来。 还记得上次搭博客，还是用的1元的腾讯云免费主机，用的也是博客比较流行的WordPress。当时时间比较多，也折腾了一阵，甚至买了域名并且备案了，但是访问我博客的人也是寥寥无几，后来自己也没怎么维护，慢慢地以前的那个博客就荒废了。 这次选择搭这个博客其实是有契机的，前段时间买了华硕的路由器，折腾了一阵，搞好了公网IP，并且自己手动实现了DDNS，于是就顺便买了个域名，去年买的阿里云主机也开始用起来了，但是重新备案又是一个漫长的过程。于是搭建博客的念头，又出现在脑海中。 之前刷微博的时候看到少数派用GitHub pages搭建免费博客的教程，当时只是随便尝试了一下。没想到现在派上了用场，于是我找到了那篇教程，才有了这个博客。 用github pages其实有几个好处，第一就是免费，作为GitHub提供的免费服务，提供了1G的空间已经足够轻度使用了。然后没有部署在机器上，也不会出现机器到期，迁移博客的麻烦。而且如果域名到期了，也可以用GitHub默认提供的域名，也是ok的。 希望这次自己不会荒废这个博客。]]></content>
       <categories>
-        <category>test</category>
+        <category>随笔</category>
       </categories>
       <tags>
-        <tag>test</tag>
+        <tag>随笔</tag>
       </tags>
   </entry>
 </search>
