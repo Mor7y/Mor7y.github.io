@@ -8,11 +8,7 @@
     <language>zh</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://v2wy.github.io/&#34;&gt;Morty Wang&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/themes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
       <link>/posts/markdown-syntax/</link>

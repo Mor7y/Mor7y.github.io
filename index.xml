@@ -8,11 +8,7 @@
     <language>zh</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://v2wy.github.io/&#34;&gt;Morty Wang&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Fri, 20 Nov 2020 22:52:56 +0800</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 20 Nov 2020 22:52:56 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Math Support</title>
       <link>/posts/math-support/</link>
